@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">cadastro-produto</string>
+    <string name="hint_nome_produto">Nome do Produto</string>
+    <string name="hint_descricao_produto">Descrição do Produto</string>
+    <string name="hint_setor_produto">Setor do Produto</string>
+    <string name="hint_preco_produto">Preço do Produto</string>
+    <string name="hint_quantidade_produto">Quantidade de Entrada</string>
+    <string name="hint_data_entrada">Data de Entrada (dd/MM/yyyy)</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="toast_produto_salvo">Produto salvo com sucesso!</string>
+    <string name="label_nome_produto">Nome do Produto:</string>
+    <string name="label_descricao_produto">Descrição do Produto:</string>
+    <string name="label_fornecedor">Fornecedor:</string>
+    <string name="label_setor">Setor:</string>
+    <string name="label_preco">Preço:</string>
+    <string name="label_quantidade">Quantidade:</string>
+    <string name="label_data_entrada">Data de Entrada:</string>
+</resources>
